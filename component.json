@@ -1,0 +1,9 @@
+{
+    "name": "ansi-styles",
+    "description": "ANSI escape codes for styling strings in the terminal",
+    "repos": "https://github.com/chalk/ansi-styles",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "2.1.0"
+}
